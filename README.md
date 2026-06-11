@@ -74,3 +74,7 @@ Projeto-Final-IA-Vertebral-Column/
 
 ```python
 predizer_paciente(dados_paciente, modelo='dt', alpha=0.1)
+
+## Autores
+
+Esse projeto foi desenvolvido como parte da disciplina de Inteligência Artificial na FATEC Mogi Mirim, primeiro semestre de 2026. Autores: Lucca Bellini Pena e Danielle Rachel Rios Moreira.
