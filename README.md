@@ -74,6 +74,7 @@ Projeto-Final-IA-Vertebral-Column/
 
 ```python
 predizer_paciente(dados_paciente, modelo='dt', alpha=0.1)
+```
 
 ## Autores
 
